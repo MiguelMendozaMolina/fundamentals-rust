@@ -1,8 +1,6 @@
 
 # Rust Programming Language
 
-![Rust Logo](rust-logo.png)
-
 ## ¿Qué es Rust?
 
 Rust es un lenguaje de programación multiparadigma centrado en la seguridad, especialmente en la seguridad de la concurrencia, y en el rendimiento. Rust es similar a C++ en sus capacidades pero enfatiza la seguridad y la gestión de memoria. Fue creado por Graydon Hoare en Mozilla Research, con contribuciones de Dave Herman, Brendan Eich, y otros. El diseño de Rust ha sido influenciado por muchos lenguajes de programación, incluidos C, C++, Haskell y Erlang.
